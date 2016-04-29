@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1461963444 source:g:\laboratorio\tp2_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiLibreria.h"
+
+1461959076 g:\laboratorio\tp2_laboratorio\milibreria.h
+
+1461963756 source:g:\laboratorio\tp2_laboratorio\milibreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiLibreria.h"
+
+1461544806 source:f:\laboratorio\tp2_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MiLibreria.h"
+
+1461543764 f:\laboratorio\tp2_laboratorio\milibreria.h
+
+1461545332 source:f:\laboratorio\tp2_laboratorio\milibreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MiLibreria.h"
+
